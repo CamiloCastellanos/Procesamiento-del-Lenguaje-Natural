@@ -1,8 +1,3 @@
-<style>
-img {
-  border-radius: 15%;
-}
-</style>
 
 ![Procesamiento Lenguaje Natural](https://i.postimg.cc/zGN3RqcB/procesamiento-lenguaje-natural.png)
 
@@ -11,14 +6,8 @@ img {
 
 
 **Índice**
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
+  1. [Taller #2](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%232.ipynb)
+  2. [taller #3](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%233.ipynb)
 <div id='id1' />
-## Primer apartado
-Texto del primer apartado
-<div id='id2' />
-## Segundo apartado
-Texto del segundo apartado
 
-* [Taller #2]: (https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%232.ipynb)
-* [Taller #3]: (https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%233.ipynb) 
+<div id='id2' />
