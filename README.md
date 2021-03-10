@@ -7,7 +7,7 @@
 
 **Índice**
   1. [Taller #2](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%232.ipynb)
-  2. [taller #3](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%233.ipynb)
+  2. [Taller #3](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%233.ipynb)
 <div id='id1' />
 
 <div id='id2' />
