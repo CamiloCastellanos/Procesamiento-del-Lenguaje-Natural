@@ -28,10 +28,14 @@ _Se recomienda tener los siguientes elementos instalados en su equipo si desea p
 ## Proyectos 📋
   1. [Análisis de documentos](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%232.ipynb)
   2. [Scraping Wikipedia](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%233.ipynb)
-
-<div id='id1' />
-
-<div id='id2' />
+  3. [Pre-Procesamiento de textos y Featuring Engineering](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%234.ipynb)
+  4. [TF-IDF](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%235.ipynb)
+  5. [Clasificación de textos](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%237.ipynb)
+  6. [Agrupación de textos](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%238.ipynb)
+  7. [Modelado de temas](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%239.ipynb)
+  8. [Nube de palabras](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%2310.ipynb)
+  9. [Twitter](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%2311.ipynb)
+  10. [Análisis de sentimiento](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%2312.ipynb)
 
 
 <!-- ## Wiki 📖
