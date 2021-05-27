@@ -27,6 +27,9 @@ _Se recomienda tener los siguientes elementos instalados en su equipo si desea p
 * **Libreria nltk**  ``` pip install --user -U nltk```
 * **Libreria plotly**  ``` pip install plotly```
 * **Libreria scikit-learn**  ``` pip install --upgrade scikit-learn```
+* **Libreria vaderSentiment**  ``` pip install vaderSentiment ```
+* **Libreria textblob**  ```pip install ```
+* **Libreria flair**  ```pip install flair ```
 
 ## Proyectos 📋
   1. [Análisis de documentos](https://github.com/CamiloCastellanos/Procesamiento-del-Lenguaje-Natural/blob/master/Taller%20%232.ipynb)
